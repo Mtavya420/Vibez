@@ -42,7 +42,7 @@ const DropDownLanguageList = () => {
     return (
         <div style={useStyle.component} className="dropdown">
             <div className="dropdown-head">
-                <p>Pick the language you want to listen to</p>
+                <p>Pick the language you want to listen</p>
             </div>
             <div className={"lang-list"}>
                 {listOfLanguage.map((item) => {
