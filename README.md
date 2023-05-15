@@ -24,6 +24,9 @@ Vibez is a music streaming app built with React.js that allows users to discover
 - CSS
 - JavaScript
 - Bootstrap
+- Sass
+- MongoDb
+- Express
 
 ## License
 
